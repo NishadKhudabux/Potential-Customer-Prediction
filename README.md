@@ -6,4 +6,4 @@ Three features where identified as major drivers of lead convertability:
 * **first_interaction_website** - Where interacting with the website rather than the app predict a greater likelyhood.
 * **profile_completed**  - Where profiles completed above the medium level suggest a predict a greater likelyhood. 
 
-From testing five different models, the hyper tuned random forest model showed the highest efficacy with a recal rate of 85%.
+From testing five different models, the hyper tuned random forest model showed the highest efficacy with a recall rate of 85%.
